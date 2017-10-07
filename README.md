@@ -1,2 +1,2 @@
 # Version-Dev-1
-This will only be online for a few seconds.
+All developer versions will not be up for long!
